@@ -1,0 +1,18 @@
+body {
+    background-color: #F5A3AC;
+}
+
+.cat {
+    background-color:#D6531F;
+    margin: 1em;
+    padding: 1em;
+    border-radius: 1em;
+    flex: 1
+    border: 1px solid;
+}
+
+@media(min-width:960px){
+.cats {
+    display: flex;
+}
+}
